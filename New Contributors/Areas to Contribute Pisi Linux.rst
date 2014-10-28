@@ -1,3 +1,5 @@
+.. _areas-to-contribute:
+
 Areas to Contribute Pisi Linux
 ===============================
 

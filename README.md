@@ -3,4 +3,16 @@ Pisi Linux Documentation Repo
 
 This is the place where the Pisi Linux Documentation team drop all its documents
 
-Dies ist der Ort wo das Pisi Linux Team alle Dokumente platzieren wird
+You found here the follow folders with Guides for reading:
+
+Guides
+======
+
+   newcontributor
+   packaging
+   bugtracking
+   newfeature
+   licensing
+   softwaredevelopment
+   releasing
+   communication
