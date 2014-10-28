@@ -9,10 +9,17 @@ Guides
 ======
 
    newcontributor
+   
    packaging
+   
    bugtracking
+   
    newfeature
+   
    licensing
+   
    softwaredevelopment
+   
    releasing
+   
    communication
