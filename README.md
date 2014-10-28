@@ -1,5 +1,5 @@
 Pisi Linux Documentation Repo
----------------------------
+------------------------------
 
 This is the place where the Pisi Linux Documentation team drop all its documents
 
@@ -9,10 +9,17 @@ Guides
 ======
 
    newcontributor
+   
    packaging
+   
    bugtracking
+   
    newfeature
+   
    licensing
+   
    softwaredevelopment
+   
    releasing
+   
    communication
