@@ -22,8 +22,3 @@ Guides
    
    releasing
    
-<<<<<<< HEAD
-   communication
-=======
-   communication
->>>>>>> beedb1e82535cb2acc0679205d547bbdeb343284
