@@ -1,4 +1,3 @@
-
 Areas to Contribute Pisi Linux
 ===============================
 
@@ -18,18 +17,16 @@ Software Development
 You can contribute your knowledge and labour on developing new softwares for Pisi Linux or improving already written ones.
 For archiving this purpose, you should be familiar with different Pardus technologies like COMAR, PiSi, Mudur, Kaptan to understand how things work in Pardus Linux.
 
-
-
 Packaging
------------
+---------
 
 If you're interested in preparing PiSi packages, but don't have much experience yet, you can read the Pisi Linux Packaging Guide to get involved in the packaging process.
 
 For contributor applications:
 
-*******
-Testing
-*******
+****
+Test
+****
 
 Our project will have a test team in order to test the new releases of Pisi Linux and also test packages which will go to the stable repositories.
 
