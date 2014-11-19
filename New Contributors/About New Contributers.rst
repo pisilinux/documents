@@ -57,4 +57,4 @@ Communication
 
   It'll be useful to let other contributors know about the decisions you make, the steps you take and the changes -even the minor ones- you make. In this way, you can adapt new contributors -who are always needed- to the subject you are dealing with easier, you can cooperate with the contributors you work with more consistently and faster. When you'll be in need for help in the future, with the help of this attitude, you can be sure that a solution will be produced faster because another contributor already knows what you want to do. For communication you can use an e-mail, the documents you'll prepare or explanatory information  you'll add to the changes you make.
 
-The ``#pisi-devel`` ``#psi-linux`` channel on FreeNode IRC network is the home for many Pisi contributors for real-time communication.
+The ``#pisi-devel`` ``#pisi-linux`` channel on FreeNode IRC network is the home for many Pisi contributors for real-time communication.
